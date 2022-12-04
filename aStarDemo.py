@@ -1,5 +1,3 @@
-
-
 import numpy as np
 from aStar import aStar, binaryScale, node
 import matplotlib.pyplot as plt
